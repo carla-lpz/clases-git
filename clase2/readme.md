@@ -51,3 +51,37 @@ Archivo para desestimar diferentes capetas y archivos que no quiero que formen p
 touch .gitignore
 ```
 
+## Agregando REMOTO
+```sh
+git remote add <alias> <url>
+git remote add origin https://github.com/carla-lpz/clases-git.git ## usen HTML
+```
+
+## Ver si tengo un remoto en mi local
+```sh
+git remote # versión corta
+git remote -v # versión detallada
+```
+## Para subir los cambios
+```sh
+git push -u <remoto> <rama-loca>
+git push -u origin main
+```
+
+## Checklist
+- [x] si
+- [ ] no
+
+## Ver cambios del remoto (trae solo matadata)
+
+```sh
+gif fetch
+```
+
+## Traer cambio y metadata
+```sh
+git pull
+```
+
+
+
