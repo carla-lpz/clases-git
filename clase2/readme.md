@@ -78,7 +78,16 @@ git push -u origin main
 gif fetch
 ```
 
-## Traer cambio y metadata
+## Visualizar si hay cambios
+
+```sh
+git branch -av
+git log --oneline --all
+git status
+```
+
+
+## Traer cambios y metadata (de manera definitiva)
 ```sh
 git pull
 ```
