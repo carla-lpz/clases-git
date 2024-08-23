@@ -16,7 +16,7 @@ git config --get-regexp user
 
 ```sh
 git config --global user.name "Carla Lopez"
-git config --global user.email lpz.carla12@gmail.com
+git config --global user.email lalalala@gmail.com
 ```
 
 ## Cómo remover algo que deseo que no esté:
@@ -66,7 +66,7 @@ Archivos que están "untracked" o sea sin seguimiento.
 
 * Working Directory (directorio de trabajo) donde van agregando, borrando al archivo en desarrolo
 * Staging Area (área de control de cambios) Se agregan los archivos para darle seguimiento y posteriormente sacarles una foto (commit)
-* Local Repo (area de validación de cambios, donde se registrna las modificaciones realizadas) Donde van a estar todas las fotos (commits) que vaya sacando.
+* Local Repo (area de validación de cambios, donde se registran las modificaciones realizadas) Donde van a estar todas las fotos (commits) que vaya sacando.
 
 ## Estados de los archivos
 
