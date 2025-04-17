@@ -17,10 +17,11 @@ git switch -c #crea la rama y te mueve a esa misma rama nueva que creaste.
 ```
 ## HEAD : indica en qué rama estoy parado 
 
-otro contenido
+## Para borrar ramas
 
 ```sh
 git branch -d <nombre-rama> # elimina la rama que está mercheada
 git branch -D <nombre-rama> # elimina la rama que no está mercheada
 ```
 
+ 
