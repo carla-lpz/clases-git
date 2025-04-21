@@ -72,7 +72,7 @@ git push -u origin main
 - [ ] no
 
 ## Ver cambios del remoto (trae solo matadata)
-
+Es solo para visualizar los cambios que hubo en el remoto.
 ```sh
 gif fetch
 ```
