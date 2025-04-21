@@ -87,6 +87,7 @@ git status
 
 
 ## Traer cambios y metadata (de manera definitiva)
+Se agregan los cambios que hubo en remoto al local y se guardan automaticamente.
 ```sh
 git pull
 ```
