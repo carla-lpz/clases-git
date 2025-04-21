@@ -48,8 +48,7 @@ git add --patch
 Archivo para desestimar diferentes capetas y archivos que no quiero que formen parte del repositorio.
 
 ```sh
-touch .gitignore
-```
+touch .gitignore ## para crearlo.
 
 ## Agregando REMOTO
 ```sh
